@@ -1,0 +1,6 @@
+.idea
+.gitignore
+bad-joke-bot.iml
+badguys.properties
+config.properties
+target/
