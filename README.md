@@ -1,3 +1,2 @@
-# anne-frank-bot
-Discord Bot for finding jews
+# scoreserver-discord-bot
 <img src="https://i.imgur.com/xIw8Ape.png">
