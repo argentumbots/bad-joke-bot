@@ -1,3 +1,3 @@
 # bad-joke-bot
-Discord Bot for finding people with bad jokes
+Discord Bot for finding jews
 <img src="https://i.imgur.com/xIw8Ape.png">
